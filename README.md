@@ -3,8 +3,8 @@
 This repository contains the solution for the Fynd AI Intern Take-Home Assessment. The project consists of two main tasks: performing sentiment analysis using prompt engineering techniques and building a full-stack AI-powered feedback system.
 
 ## 🔗 Live Deployments (Mandatory)
-*   **User Dashboard:** [INSERT_YOUR_STREAMLIT_LINK_HERE]
-*   **Admin Dashboard:** [INSERT_YOUR_STREAMLIT_LINK_HERE]
+*   **User Dashboard:** https://fynd-ai-assessment-wkeg4q6rhpuqfwrduouvrb.streamlit.app/
+*   **Admin Dashboard:** https://fynd-ai-assessment-wkeg4q6rhpuqfwrduouvrb.streamlit.app/
 
 
 ---
@@ -32,3 +32,4 @@ LLM: Google Gemini API
 Frontend/Backend: Streamlit
 Database: SQLite
 Data Analysis: Pandas, Scikit-learn
+
